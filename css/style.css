@@ -1,0 +1,101 @@
+
+a{
+	color:brown;
+	size: 100px;
+}
+#icons
+{
+	
+	text-align: center;
+	margin: 5px 5px 5px 5px;
+	padding: 5px 5px 5px 5px;
+
+	
+}
+#men{
+	text-align: center;
+	
+}
+#women
+{
+	
+		text-align: center;
+		
+}
+#slide{
+	background-color:#dd9ec4;
+	color:rgb(255, 252, 250);
+	display: none;
+	text-align: center;
+	margin-bottom: 5px;
+	
+	
+}
+
+#app{
+	text-align: center;
+	
+}
+#food{
+	text-align: center;
+	
+}
+
+#banner-image {
+	padding-top: 75px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #f8f8f8;
+	background: url("C:/Users/HP/php classes/e-commerce/images/pexels-robin-1020370.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
+#banner_content {
+	position: relative;
+	padding-top: 6%;
+	padding-bottom: 6%;
+	margin: 12% auto;
+	background-color: rgba(0, 0, 0, 0.7);
+	max-width: 660px;
+}
+footer {
+	position: fixed;
+	text-align: center;
+	bottom: 0;
+	background-color: #fce8f4;
+	color: rgb(100, 100, 100);
+	width: 100%;
+	
+}
+.panel-margin {
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+.text-centre {
+	text-align: center;
+}
+.thumbnail{
+    display: block; 
+    max-width:100%;
+    height: auto;
+}
+.caption{
+    color:whitesmoke; 
+    padding:0px 10px 10px;
+    font-weight:lighter; 
+    text-align: center;
+}
+#main
+{
+	background-color:#fce8f4;
+}
+
+#box{
+	
+	margin: 0px 30% 0px 30%;
+}
+#panelcolor{
+	color: black;
+	background-color:#fce8f4 ;
+}
